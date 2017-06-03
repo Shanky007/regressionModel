@@ -14,6 +14,7 @@ The train inputs and outputs are persent in ``dtset.txt`` as space-seperated val
 ### Results
 
 The distribution of training dataset is :
+
 ![Screenshot](./assets/screenshot1.png "Screenshot 1")
 
 The distribution of validated dataset along with original value and prediction:
